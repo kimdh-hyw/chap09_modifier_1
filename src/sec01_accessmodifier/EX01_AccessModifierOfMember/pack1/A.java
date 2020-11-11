@@ -1,5 +1,7 @@
 package sec01_accessmodifier.EX01_AccessModifierOfMember.pack1;
 
+/*멤버 및 생성자에 적용되는 네 가지 접근 지정자*/
+
 public class A {
 	public int a=1;
 	protected int b=2;
