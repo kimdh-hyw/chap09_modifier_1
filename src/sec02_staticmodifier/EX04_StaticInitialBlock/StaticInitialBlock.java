@@ -19,3 +19,4 @@ public class StaticInitialBlock {
 		System.out.println(A.b); //5		
 	}
 }
+
